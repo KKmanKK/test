@@ -1,3 +1,4 @@
 some text
 some more text
 some most more text
+a new text
